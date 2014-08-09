@@ -77,4 +77,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 h2. License
 
-Whatever part of this app that I own and am responsible for is under the [MIT License](You can use this under the [MIT License](http://opensource.org/licenses/MIT)
+Whatever part of this app that I own and am responsible for is under the [MIT License](http://opensource.org/licenses/MIT)
